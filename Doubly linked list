@@ -13,7 +13,7 @@ class DLL {
         }
     }
 
-    // Insert at beginning
+    
     public void insertAtBeginning(int data) {
         Node newNode = new Node(data);
         if (head != null) {
@@ -157,3 +157,4 @@ public class Main {
     
     }
 }
+
